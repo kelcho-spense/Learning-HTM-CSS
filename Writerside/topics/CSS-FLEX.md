@@ -1,13 +1,16 @@
 # CSS Flexbox
 
+The Flexbox Layout (Flexible Box) module (a [W3C Candidate Recommendation](https://www.w3.org/TR/css-flexbox/) as of October 2017) aims at providing a more efficient way to lay out, align and distribute space among items in a container, even when their size is unknown and/or dynamic (thus the word “flex”).
+
 * Flexbox is short for the Flexible Box Layout module. 
 * Flexbox is a layout method for arranging items in rows or columns. 
 * Flexbox makes it easier to design a flexible responsive layout structure, without using float or positioning.
 
+
 ## CSS Flexbox Components
 A flexbox always consists of:
-1. a **`Flex Container`** - the parent (`container`) <div> element
-2. **`Flex Items`** - the `items inside` the container <div>
+1. a **`Flex Container`** - the parent (`container`) `<div>` element
+2. **`Flex Items`** - the `items inside` the container `<div>`
 
 ## Flexbox Properties:
 ### **display: flex;**
