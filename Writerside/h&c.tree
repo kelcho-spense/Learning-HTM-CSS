@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="h&c"
+                 name="HTML & CSS"
+                 start-page="starter-topic.md">
+
+    <toc-element topic="starter-topic.md">
+        <toc-element topic="HTML-Introduction.md"/>
+        <toc-element topic="HTML-Basic.md"/>
+        <toc-element topic="HTML-Elements.md"/>
+        <toc-element topic="HTML-Attributes.md"/>
+        <toc-element topic="HTML-Element-Types.md"/>
+        <toc-element topic="Semantic-HTML-Elements.md"/>
+        <toc-element topic="HTML-Layouts.md"/>
+        <toc-element topic="HTML-Forms.md">
+            <toc-element topic="HTML-Form-Elements.md"/>
+        </toc-element>
+        <toc-element topic="HTML-Block-VS-Inline-Elements.md"/>
+    </toc-element>
+    <toc-element topic="CSS.md">
+        <toc-element topic="CSS-Icons.md"/>
+        <toc-element topic="CSS-Colors.md"/>
+        <toc-element topic="CSS-Fonts.md"/>
+        <toc-element topic="Margins-Vs-Padding.md">
+            <toc-element topic="The-CSS-Box-Model.md"/>
+        </toc-element>
+        <toc-element topic="CSS-Border-Style.md">
+            <toc-element topic="CSS-Border-Shorthand-Property.md"/>
+        </toc-element>
+        <toc-element topic="CSS-Selectors.md">
+            <toc-element topic="CSS-Combinators.md">
+            </toc-element>
+            <toc-element topic="CSS-Pseudo-classes.md"/>
+            <toc-element topic="CSS-Pseudo-elements.md">
+            </toc-element>
+            <toc-element topic="CSS-Attribute-Selectors.md"/>
+        </toc-element>
+        <toc-element topic="CSS-Media-Queries.md">
+        </toc-element>
+        <toc-element topic="Responsive-Blogging-site.md"/>
+    </toc-element>
+    <toc-element topic="CSS-FLEX.md">
+        <toc-element topic="Flex-Responsive.md"/>
+        <toc-element topic="Responsive-Flexbox.md">
+            <toc-element topic="Responsive-Image-Gallery-using-Flexbox.md"/>
+        </toc-element>
+        <toc-element topic="FlexBox-Project.md"/>
+    </toc-element>
+</instance-profile>
