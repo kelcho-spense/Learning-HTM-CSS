@@ -2,14 +2,17 @@
 
 ## Grid Columns
 The vertical lines of grid items are called columns.
+
 ![image_54.png](image_54.png)
 
 ## Grid Rows
 The horizontal lines of grid items are called rows.
+
 ![image_55.png](image_55.png
 
 ## Grid Gaps
 The spaces between each column/row are called gaps.
+
 ![image_56.png](image_56.png
 
 You can adjust the gap size by using one of the following properties:
